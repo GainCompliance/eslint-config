@@ -4,7 +4,12 @@
   "license": "MIT",
   "version": "0.0.0-semantically-released",
   "files": [
-    "index.js"
+    "index.js",
+    "cucumber.js",
+    "cypress.js",
+    "hal.js",
+    "mocha.js",
+    "react.js"
   ],
   "publishConfig": {
     "access": "public"
