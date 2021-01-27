@@ -21,6 +21,7 @@
     "lint:travis": "travis-lint .travis.yml"
   },
   "devDependencies": {
+    "@babel/core": ">=7.11.0",
     "@gaincompliance/remark-preset-lint": "^1.0.5",
     "ban-sensitive-files": "^1.9.7",
     "commitlint-config-gain": "^1.0.21",
